@@ -1,2 +1,2 @@
 # ibm-data-science
-Coursework for IBM Data Science
+This contains projects and coursework for IBM's "Professional Certificate in Data Science."
